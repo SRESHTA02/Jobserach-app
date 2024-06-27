@@ -1,5 +1,5 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
-<br/>
+In this project, I have built a **Jobby App**  which is a Job searching web app 
+< br/>
 [https://sreshtap.ccbp.tech/](https://sreshtap.ccbp.tech/)
 <br/>
 
